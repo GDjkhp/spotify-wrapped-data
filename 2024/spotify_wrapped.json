@@ -1,0 +1,1725 @@
+{
+  "1": [
+    {
+      "1": {
+        "1": "intro",
+        "2": "https://p.scdn.co/mp3-preview/6c88285fb8412130745a32e62453ffba42a6b560",
+        "3": {
+          "1": "intro",
+          "2": "default"
+        },
+        "4": "Intro Story",
+        "5": "#000000",
+        "8": {
+          "1": {
+            "1": "Hi John Kennedy Haringa Pe\u00f1a",
+            "2": "#FFFFFF",
+            "3": 1,
+            "5": {
+              "4": 800
+            }
+          }
+        },
+        "9": 2334,
+        "10": {
+          "1": {
+            "1": "It\u2019s that time of year again. Wrapped\u2019s ready. Are you?",
+            "2": "#FFFFFF",
+            "3": 6
+          }
+        },
+        "11": 3001,
+        "12": "https://campaigns-service.spotifycdn.com/wrapped-2024/lottie/intro/intro-configuration.binpb"
+      }
+    },
+    {
+      "2": {
+        "1": "minutes-listened",
+        "2": "https://p.scdn.co/mp3-preview/011c50ae6512075f5cb361760e1fc0ec5bfac774",
+        "3": {
+          "1": "minutes-listened",
+          "2": "default",
+          "3": "\u0004\u0001\u0002\r\u0006\u0000\u0003\u0005\b\u0007\t\n\u000b\f"
+        },
+        "4": "Minutes Listened Story",
+        "5": "#000000",
+        "6": {
+          "1": {
+            "1": "Life moves fast",
+            "2": "#FFFFFF",
+            "3": 3,
+            "5": {
+              "4": 800
+            }
+          }
+        },
+        "7": 2334,
+        "8": {
+          "1": {
+            "1": "Luckily we took notes.",
+            "2": "#FFFFFF",
+            "3": 6
+          }
+        },
+        "9": 3001,
+        "10": {
+          "1": {
+            "1": "You listened for $1 minutes this year",
+            "2": "#FFFFFF",
+            "3": 3,
+            "5": {
+              "4": 800
+            }
+          },
+          "2": {
+            "1": "35,911",
+            "2": "#FFFFFF",
+            "3": 3,
+            "5": {
+              "4": 800
+            }
+          }
+        },
+        "11": 2334,
+        "12": {
+          "1": {
+            "1": "That puts you in the top $1 of listeners worldwide.",
+            "2": "#FFFFFF",
+            "3": 6
+          },
+          "2": {
+            "1": "9%",
+            "2": "#FFFFFF",
+            "3": 7
+          }
+        },
+        "13": 3001,
+        "14": {
+          "1": {
+            "1": "Your biggest listening day was $1 with $2 minutes",
+            "2": "#FFFFFF",
+            "3": 3,
+            "5": {
+              "4": 800
+            }
+          },
+          "2": [
+            {
+              "1": {
+                "4": 51,
+                "9": 1751347809
+              },
+              "2": "#FFFFFF",
+              "3": 3,
+              "5": {
+                "4": 800
+              }
+            },
+            {
+              "1-1": "493",
+              "2": "#FFFFFF",
+              "3": 3,
+              "5": {
+                "4": 800
+              }
+            }
+          ]
+        },
+        "15": 2334,
+        "16": {
+          "1": {
+            "1": "Where do you find the time?",
+            "2": "#FFFFFF",
+            "3": 6
+          }
+        },
+        "17": 3001,
+        "18": "https://campaigns-service.spotifycdn.com/wrapped-2024/lottie/minutes-listened/minutes_listened-configuration.binpb"
+      }
+    },
+    {
+      "3": {
+        "1": "top-song",
+        "2": "https://p.scdn.co/mp3-preview/5ffbbaed1a77ff925d7a7ae527970ccea3384312",
+        "3": {
+          "1": "top-song",
+          "2": "default",
+          "3": "\u0004\u0001\u0002\r\u0006\u0000\u0003\u0005\b\u0007\n\u000b\f"
+        },
+        "4": "Top Song Story",
+        "5": "#000000",
+        "6": {
+          "1": {
+            "1": "You played $1 songs this year",
+            "2": "#FFFFFF",
+            "3": 3,
+            "5": {
+              "4": 800
+            }
+          },
+          "2": {
+            "1": "1,735",
+            "2": "#FFFFFF",
+            "3": 3,
+            "5": {
+              "4": 800
+            }
+          }
+        },
+        "7": 2334,
+        "8": {
+          "1": {
+            "1": "And one song again, and again, and again, and again\u2026",
+            "2": "#FFFFFF",
+            "3": 6
+          }
+        },
+        "9": 3001,
+        "10": {
+          "1": "https://i.scdn.co/image/ab67616d0000b2738642040675045076ca7dff5b",
+          "2": "YAKUSHIMARU Etsuko"
+        },
+        "11": [
+          {
+            "1": {
+              "1": {
+                "1": "Your top song was $1 by $2",
+                "2": "#000000",
+                "3": 4
+              },
+              "2": [
+                {
+                  "1": "Boys, come back to me (RADIO ONSEN EUTOPIA)",
+                  "2": "#000000",
+                  "3": 4
+                },
+                {
+                  "1": "YAKUSHIMARU Etsuko",
+                  "2": "#000000",
+                  "3": 4
+                }
+              ]
+            },
+            "2": {
+              "1": {
+                "1": "You were in the top $1 of listeners globally.",
+                "2": "#000000",
+                "3": 6
+              },
+              "2": {
+                "1": "0.001%",
+                "2": "#000000",
+                "3": 7
+              }
+            },
+            "3": 4000
+          },
+          {
+            "1": {
+              "1": {
+                "1": "You streamed it $1 times, starting on $2",
+                "2": "#000000",
+                "3": 4
+              },
+              "2": [
+                {
+                  "1": "222",
+                  "2": "#000000",
+                  "3": 4
+                },
+                {
+                  "1": "January 2",
+                  "2": "#000000",
+                  "3": 4
+                }
+              ]
+            },
+            "2": {
+              "1": {
+                "1": "Commitment never sounded so good.",
+                "2": "#000000",
+                "3": 6
+              }
+            },
+            "3": 4000
+          }
+        ],
+        "13": "https://campaigns-service.spotifycdn.com/wrapped-2024/lottie/top-song/top_song-configuration.binpb"
+      }
+    },
+    {
+      "4": {
+        "1": "top-five-songs",
+        "2": "https://p.scdn.co/mp3-preview/bdce76d02e7def2a7d9adbe79f9b05b7d76f2355",
+        "3": {
+          "1": "top-five-songs",
+          "2": "default",
+          "3": "\u0004\u0001\u0002\r\u0006\u0000\u0003\u0005\b\u0007\t\n\u000b\f"
+        },
+        "4": "Top Songs Story",
+        "5": "#FFF200",
+        "6": {
+          "1": {
+            "1": "While it\u2019s not a competition\u2026",
+            "2": "#000000",
+            "3": 3,
+            "5": {
+              "4": 800
+            }
+          }
+        },
+        "7": 2334,
+        "8": {
+          "1": {
+            "1": "There is a leaderboard.",
+            "2": "#000000",
+            "3": 6
+          }
+        },
+        "9": 3001,
+        "14": {
+          "1": {
+            "1": "Your top songs",
+            "2": "#000000",
+            "3": 4
+          }
+        },
+        "15": [
+          {
+            "1": {
+              "1": {
+                "1": "1",
+                "2": "#000000",
+                "3": 1,
+                "5": {
+                  "4": 800
+                }
+              }
+            },
+            "2": {
+              "1": "https://i.scdn.co/image/ab67616d0000b2738642040675045076ca7dff5b",
+              "2": "Boys, come back to me (RADIO ONSEN EUTOPIA) YAKUSHIMARU Etsuko album art"
+            },
+            "3": {
+              "1": {
+                "1": "Boys, come back to me (RADIO ONSEN EUTOPIA)",
+                "2": "#000000",
+                "3": 7
+              }
+            },
+            "4": {
+              "1": {
+                "1": "YAKUSHIMARU Etsuko",
+                "2": "#000000",
+                "3": 6
+              }
+            }
+          },
+          {
+            "1": {
+              "1": {
+                "1": "2",
+                "2": "#000000",
+                "3": 1,
+                "5": {
+                  "4": 800
+                }
+              }
+            },
+            "2": {
+              "1": "https://i.scdn.co/image/ab67616d0000b2738642040675045076ca7dff5b",
+              "2": "YAMI YAMI (RADIO ONSEN EUTOPIA) YAKUSHIMARU Etsuko album art"
+            },
+            "3": {
+              "1": {
+                "1": "YAMI YAMI (RADIO ONSEN EUTOPIA)",
+                "2": "#000000",
+                "3": 7
+              }
+            },
+            "4": {
+              "1": {
+                "1": "YAKUSHIMARU Etsuko",
+                "2": "#000000",
+                "3": 6
+              }
+            }
+          },
+          {
+            "1": {
+              "1": {
+                "1": "3",
+                "2": "#000000",
+                "3": 1,
+                "5": {
+                  "4": 800
+                }
+              }
+            },
+            "2": {
+              "1": "https://i.scdn.co/image/ab67616d0000b2738642040675045076ca7dff5b",
+              "2": "Venus & Jesus (RADIO ONSEN EUTOPIA) YAKUSHIMARU Etsuko album art"
+            },
+            "3": {
+              "1": {
+                "1": "Venus & Jesus (RADIO ONSEN EUTOPIA)",
+                "2": "#000000",
+                "3": 7
+              }
+            },
+            "4": {
+              "1": {
+                "1": "YAKUSHIMARU Etsuko",
+                "2": "#000000",
+                "3": 6
+              }
+            }
+          },
+          {
+            "1": {
+              "1": {
+                "1": "4",
+                "2": "#000000",
+                "3": 1,
+                "5": {
+                  "4": 800
+                }
+              }
+            },
+            "2": {
+              "1": "https://i.scdn.co/image/ab67616d0000b2738642040675045076ca7dff5b",
+              "2": "Lonely Planet (RADIO ONSEN EUTOPIA) YAKUSHIMARU Etsuko album art"
+            },
+            "3": {
+              "1": {
+                "1": "Lonely Planet (RADIO ONSEN EUTOPIA)",
+                "2": "#000000",
+                "3": 7
+              }
+            },
+            "4": {
+              "1": {
+                "1": "YAKUSHIMARU Etsuko",
+                "2": "#000000",
+                "3": 6
+              }
+            }
+          },
+          {
+            "1": {
+              "1": {
+                "1": "5",
+                "2": "#000000",
+                "3": 1,
+                "5": {
+                  "4": 800
+                }
+              }
+            },
+            "2": {
+              "1": "https://i.scdn.co/image/ab67616d0000b2738642040675045076ca7dff5b",
+              "2": "Nornir (RADIO ONSEN EUTOPIA) YAKUSHIMARU Etsuko album art"
+            },
+            "3": {
+              "1": {
+                "1": "Nornir (RADIO ONSEN EUTOPIA)",
+                "2": "#000000",
+                "3": 7
+              }
+            },
+            "4": {
+              "1": {
+                "1": "YAKUSHIMARU Etsuko",
+                "2": "#000000",
+                "3": 6
+              }
+            }
+          }
+        ],
+        "16": 5501,
+        "17": "https://campaigns-service.spotifycdn.com/wrapped-2024/lottie/top-songs-list/top_5_songs-configuration.binpb"
+      }
+    },
+    {
+      "9": {
+        "1": "music-evolution-intro",
+        "2": "https://p.scdn.co/mp3-preview/668b87f3cf601b39c8cd2c368e6f29f29dca7da2",
+        "3": {
+          "1": "music-evolution-intro",
+          "2": "default"
+        },
+        "4": "Your 2024 Music Evolution",
+        "5": "#000000",
+        "6": {
+          "1": {
+            "1": "You\u2019ve changed. And so has your listening.",
+            "2": "#FFFFFF",
+            "3": 3,
+            "5": {
+              "4": 800
+            }
+          }
+        },
+        "7": 2334,
+        "8": {
+          "1": {
+            "1": "Let\u2019s look at your 2024 Music Evolution.",
+            "2": "#FFFFFF",
+            "3": 6
+          }
+        },
+        "9": 3000,
+        "10": "https://campaigns-service.spotifycdn.com/wrapped-2024/lottie/music-evolution/music_evolution_intro-configuration.binpb",
+        "11": [
+          {
+            "1": "cloud_1",
+            "2": "**.cloud_1.Colors",
+            "3": [
+              "#FFFCE54F",
+              "#FFFCE54F",
+              "#00FCE54F"
+            ],
+            "4": {
+              "0": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                8176
+              ],
+              "1020": 0
+            }
+          },
+          {
+            "1": "cloud_2",
+            "2": "**.cloud_2.Colors",
+            "3": [
+              "#FFF3FF46",
+              "#FFF3FF46",
+              "#00F3FF46"
+            ],
+            "4": {
+              "0": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                8176
+              ],
+              "1020": 0
+            }
+          },
+          {
+            "1": "cloud_3",
+            "2": "**.cloud_3.Colors",
+            "3": [
+              "#FF0F6A2F",
+              "#FF0F6A2F",
+              "#000F6A2F"
+            ],
+            "4": {
+              "0": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                8176
+              ],
+              "1020": 0
+            }
+          },
+          {
+            "1": "cloud_4",
+            "2": "**.cloud_4.Colors",
+            "3": [
+              "#FF5FF550",
+              "#FF5FF550",
+              "#005FF550"
+            ],
+            "4": {
+              "0": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                8176
+              ],
+              "1020": 0
+            }
+          }
+        ]
+      }
+    },
+    {
+      "10": {
+        "1": "music-evolution-era-1",
+        "2": "https://p.scdn.co/mp3-preview/423ea55149441d10ac7b0945273940d6025151db",
+        "3": {
+          "1": "music-evolution-era-1",
+          "2": "default",
+          "3": "\u0004\u0001\u0002\r\u0006\u0000\u0003\u0005\b\u0007\t\n\u000b\f"
+        },
+        "4": "Your 2024 Music Evolution",
+        "5": "#000000",
+        "6": [
+          "December",
+          "November",
+          "October",
+          "September",
+          "August",
+          "July",
+          "June",
+          "May",
+          "April",
+          "March",
+          "February",
+          "January"
+        ],
+        "8": {
+          "1": {
+            "1": "January was your $1 $2 $3 phase",
+            "2": "#FFFFFF",
+            "3": 3,
+            "5": {
+              "4": 400
+            }
+          },
+          "2": [
+            {
+              "1": "Chaotic Academia",
+              "2": "#FFFFFF",
+              "3": 3,
+              "5": {
+                "4": 800
+              }
+            },
+            {
+              "1": "Old School Emo",
+              "2": "#FFFFFF",
+              "3": 3,
+              "5": {
+                "4": 800
+              }
+            },
+            {
+              "1": "Piano Rock",
+              "2": "#FFFFFF",
+              "3": 3,
+              "5": {
+                "4": 800
+              }
+            }
+          ]
+        },
+        "9": 2334,
+        "10": {
+          "1": {
+            "1": "You were really into artists like $1 and $2.",
+            "2": "#FFFFFF",
+            "3": 6
+          },
+          "2": [
+            {
+              "1": "Elton John",
+              "2": "#FFFFFF",
+              "3": 7
+            },
+            {
+              "1": "The Rocket Summer",
+              "2": "#FFFFFF",
+              "3": 7
+            }
+          ]
+        },
+        "11": 3000,
+        "12": "https://campaigns-service.spotifycdn.com/wrapped-2024/lottie/music-evolution/music_evolution_road_1-configuration.binpb",
+        "13": {
+          "1": "road_gradient",
+          "2": "**.road_gradient.Colors",
+          "3": [
+            "#FF000000",
+            "#FF603B17",
+            "#FF603B17",
+            "#FFF3FF46",
+            "#FFF3FF46",
+            "#FFF3FF46",
+            "#FFF3FF46",
+            "#FFCEDF6C",
+            "#FFCEDF6C",
+            "#FF83C341",
+            "#FF83C341",
+            "#FF156B37",
+            "#FF156B37",
+            "#FF000000",
+            "#FF000000"
+          ],
+          "4": "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u00ecQ\u00b8\u001e\u0085\u00eb\u00b1?\u00ecQ\u00b8\u001e\u0085\u00eb\u00c1?\u0085\u00ebQ\u00b8\u001e\u0085\u00cb?\u008f\u00c2\u00f5(\\\u008f\u00d2?\n\u00d7\u00a3p=\n\u00d7?\u0085\u00ebQ\u00b8\u001e\u0085\u00db?\u0000\u0000\u0000\u0000\u0000\u0000\u00e0?=\n\u00d7\u00a3p=\u00e2?{\u0014\u00aeG\u00e1z\u00e4?\u00b8\u001e\u0085\u00ebQ\u00b8\u00e6?!\u00b0rh\u0091\u00ed\u00e8?^\u00baI\f\u0002+\u00eb?\u00c5 \u00b0rh\u0091\u00ed?\u0000\u0000\u0000\u0000\u0000\u0000\u00f0?"
+        },
+        "14": [
+          {
+            "1": "cloud_1",
+            "2": "**.cloud_1.Colors",
+            "3": [
+              "#FFFCE54F",
+              "#FFFCE54F",
+              "#00FCE54F"
+            ],
+            "4": {
+              "0": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                8176
+              ],
+              "1020": 0
+            }
+          },
+          {
+            "1": "cloud_2",
+            "2": "**.cloud_2.Colors",
+            "3": [
+              "#FFF3FF46",
+              "#FFF3FF46",
+              "#00F3FF46"
+            ],
+            "4": {
+              "0": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                8176
+              ],
+              "1020": 0
+            }
+          },
+          {
+            "1": "cloud_3",
+            "2": "**.cloud_3.Colors",
+            "3": [
+              "#FF0F6A2F",
+              "#FF0F6A2F",
+              "#000F6A2F"
+            ],
+            "4": {
+              "0": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                8176
+              ],
+              "1020": 0
+            }
+          },
+          {
+            "1": "cloud_4",
+            "2": "**.cloud_4.Colors",
+            "3": [
+              "#FF5FF550",
+              "#FF5FF550",
+              "#005FF550"
+            ],
+            "4": {
+              "0": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                8176
+              ],
+              "1020": 0
+            }
+          }
+        ],
+        "15": {
+          "1": "streak_1",
+          "2": "**.streak_1.Colors",
+          "3": [
+            "#00F3FF46",
+            "#FFF3FF46",
+            "#FFF3FF46",
+            "#00F3FF46",
+            "#00F3FF46"
+          ],
+          "4": "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u00e3\u00a5\u009b\u00c4 \u00b0\u00d2?\u0000\u0000\u0000\u0000\u0000\u0000\u00e0?\u008f\u00c2\u00f5(\\\u008f\u00e6?\u0000\u0000\u0000\u0000\u0000\u0000\u00f0?"
+        }
+      }
+    },
+    {
+      "10": {
+        "1": "music-evolution-era-2",
+        "2": "https://p.scdn.co/mp3-preview/6e853d49bd455b1899e3ea0d224734aa8ca8eb89",
+        "3": {
+          "1": "music-evolution-era-2",
+          "2": "default",
+          "3": "\u0004\u0001\u0002\r\u0006\u0000\u0003\u0005\b\u0007\t\n\u000b\f"
+        },
+        "4": "Your 2024 Music Evolution",
+        "5": "#000000",
+        "6": [
+          "January",
+          "February"
+        ],
+        "7": 1,
+        "8": {
+          "1": {
+            "1": "February was your $1 $2 $3 season",
+            "2": "#FFFFFF",
+            "3": 3,
+            "5": {
+              "4": 400
+            }
+          },
+          "2": [
+            {
+              "1": "Nerdy",
+              "2": "#FFFFFF",
+              "3": 3,
+              "5": {
+                "4": 800
+              }
+            },
+            {
+              "1": "Skateboarding",
+              "2": "#FFFFFF",
+              "3": 3,
+              "5": {
+                "4": 800
+              }
+            },
+            {
+              "1": "Anime",
+              "2": "#FFFFFF",
+              "3": 3,
+              "5": {
+                "4": 800
+              }
+            }
+          ]
+        },
+        "9": 2334,
+        "10": {
+          "1": {
+            "1": "You were all about artists like $1, $2, and $3.",
+            "2": "#FFFFFF",
+            "3": 6
+          },
+          "2": [
+            {
+              "1": "DIALOGUE+",
+              "2": "#FFFFFF",
+              "3": 7
+            },
+            {
+              "1": "YAKUSHIMARU Etsuko",
+              "2": "#FFFFFF",
+              "3": 7
+            },
+            {
+              "1": "the peggies",
+              "2": "#FFFFFF",
+              "3": 7
+            }
+          ]
+        },
+        "11": 3000,
+        "12": "https://campaigns-service.spotifycdn.com/wrapped-2024/lottie/music-evolution/music_evolution_road_2-configuration.binpb",
+        "13": {
+          "1": "road_gradient",
+          "2": "**.road_gradient.Colors",
+          "3": [
+            "#FF000000",
+            "#FFE52525",
+            "#FFE52525",
+            "#FFDC4799",
+            "#FFDC4799",
+            "#FFEC9DC4",
+            "#FFEC9DC4",
+            "#FFCEDF6C",
+            "#FFCEDF6C",
+            "#FF83C341",
+            "#FF83C341",
+            "#FF156B37",
+            "#FF156B37",
+            "#FF000000",
+            "#FF000000"
+          ],
+          "4": "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u00ecQ\u00b8\u001e\u0085\u00eb\u00b1?\u00ecQ\u00b8\u001e\u0085\u00eb\u00c1?\u0085\u00ebQ\u00b8\u001e\u0085\u00cb?\u008f\u00c2\u00f5(\\\u008f\u00d2?\n\u00d7\u00a3p=\n\u00d7?\u0085\u00ebQ\u00b8\u001e\u0085\u00db?\u0000\u0000\u0000\u0000\u0000\u0000\u00e0?=\n\u00d7\u00a3p=\u00e2?{\u0014\u00aeG\u00e1z\u00e4?\u00b8\u001e\u0085\u00ebQ\u00b8\u00e6?!\u00b0rh\u0091\u00ed\u00e8?^\u00baI\f\u0002+\u00eb?\u00c5 \u00b0rh\u0091\u00ed?\u0000\u0000\u0000\u0000\u0000\u0000\u00f0?"
+        },
+        "14": [
+          {
+            "1": "cloud_1",
+            "2": "**.cloud_1.Colors",
+            "3": [
+              "#FFE81B00",
+              "#FFE81B00",
+              "#00E81B00"
+            ],
+            "4": {
+              "0": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                8176
+              ],
+              "1020": 0
+            }
+          },
+          {
+            "1": "cloud_2",
+            "2": "**.cloud_2.Colors",
+            "3": [
+              "#FFFF1ABF",
+              "#FFFF1ABF",
+              "#00FF1ABF"
+            ],
+            "4": {
+              "0": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                8176
+              ],
+              "1020": 0
+            }
+          },
+          {
+            "1": "cloud_3",
+            "2": "**.cloud_3.Colors",
+            "3": [
+              "#FF0F6A2F",
+              "#FF0F6A2F",
+              "#000F6A2F"
+            ],
+            "4": {
+              "0": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                8176
+              ],
+              "1020": 0
+            }
+          },
+          {
+            "1": "cloud_4",
+            "2": "**.cloud_4.Colors",
+            "3": [
+              "#FF5FF550",
+              "#FF5FF550",
+              "#005FF550"
+            ],
+            "4": {
+              "0": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                8176
+              ],
+              "1020": 0
+            }
+          }
+        ],
+        "15": {
+          "1": "streak_1",
+          "2": "**.streak_1.Colors",
+          "3": [
+            "#00FF1ABF",
+            "#FFFF1ABF",
+            "#FFFF1ABF",
+            "#00FF1ABF",
+            "#00FF1ABF"
+          ],
+          "4": "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u00e3\u00a5\u009b\u00c4 \u00b0\u00d2?\u0000\u0000\u0000\u0000\u0000\u0000\u00e0?\u008f\u00c2\u00f5(\\\u008f\u00e6?\u0000\u0000\u0000\u0000\u0000\u0000\u00f0?"
+        }
+      }
+    },
+    {
+      "10": {
+        "1": "music-evolution-era-3",
+        "2": "https://p.scdn.co/mp3-preview/215ae3b8fec8779246f357ecabaa2324ba649b99",
+        "3": {
+          "1": "music-evolution-era-3",
+          "2": "default",
+          "3": "\u0004\u0001\u0002\r\u0006\u0000\u0003\u0005\b\u0007\t\n\u000b\f"
+        },
+        "4": "Your 2024 Music Evolution",
+        "5": "#000000",
+        "6": [
+          "February",
+          "March"
+        ],
+        "7": 1,
+        "8": {
+          "1": {
+            "1": "March was your $1 $2 $3 moment",
+            "2": "#FFFFFF",
+            "3": 3,
+            "5": {
+              "4": 400
+            }
+          },
+          "2": [
+            {
+              "1": "Mangas",
+              "2": "#FFFFFF",
+              "3": 3,
+              "5": {
+                "4": 800
+              }
+            },
+            {
+              "1": "Shonen",
+              "2": "#FFFFFF",
+              "3": 3,
+              "5": {
+                "4": 800
+              }
+            },
+            {
+              "1": "Japanese Metal",
+              "2": "#FFFFFF",
+              "3": 3,
+              "5": {
+                "4": 800
+              }
+            }
+          ]
+        },
+        "9": 2334,
+        "10": {
+          "1": {
+            "1": "You were big on artists like $1, $2, and $3.",
+            "2": "#FFFFFF",
+            "3": 6
+          },
+          "2": [
+            {
+              "1": "MAXIMUM THE HORMONE",
+              "2": "#FFFFFF",
+              "3": 7
+            },
+            {
+              "1": "Fear, and Loathing in Las Vegas",
+              "2": "#FFFFFF",
+              "3": 7
+            },
+            {
+              "1": "BABYMETAL",
+              "2": "#FFFFFF",
+              "3": 7
+            }
+          ]
+        },
+        "11": 3000,
+        "12": "https://campaigns-service.spotifycdn.com/wrapped-2024/lottie/music-evolution/music_evolution_road_3-configuration.binpb",
+        "13": {
+          "1": "road_gradient",
+          "2": "**.road_gradient.Colors",
+          "3": [
+            "#FF000000",
+            "#FFE52525",
+            "#FFE52525",
+            "#FFDC4799",
+            "#FFDC4799",
+            "#FFEC9DC4",
+            "#FFEC9DC4",
+            "#FFCEDF6C",
+            "#FFCEDF6C",
+            "#FF83C341",
+            "#FF83C341",
+            "#FF156B37",
+            "#FF156B37",
+            "#FF000000",
+            "#FF000000"
+          ],
+          "4": "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u00ecQ\u00b8\u001e\u0085\u00eb\u00b1?\u00ecQ\u00b8\u001e\u0085\u00eb\u00c1?\u0085\u00ebQ\u00b8\u001e\u0085\u00cb?\u008f\u00c2\u00f5(\\\u008f\u00d2?\n\u00d7\u00a3p=\n\u00d7?\u0085\u00ebQ\u00b8\u001e\u0085\u00db?\u0000\u0000\u0000\u0000\u0000\u0000\u00e0?=\n\u00d7\u00a3p=\u00e2?{\u0014\u00aeG\u00e1z\u00e4?\u00b8\u001e\u0085\u00ebQ\u00b8\u00e6?!\u00b0rh\u0091\u00ed\u00e8?^\u00baI\f\u0002+\u00eb?\u00c5 \u00b0rh\u0091\u00ed?\u0000\u0000\u0000\u0000\u0000\u0000\u00f0?"
+        },
+        "14": [
+          {
+            "1": "cloud_1",
+            "2": "**.cloud_1.Colors",
+            "3": [
+              "#FFE81B00",
+              "#FFE81B00",
+              "#00E81B00"
+            ],
+            "4": {
+              "0": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                8176
+              ],
+              "1020": 0
+            }
+          },
+          {
+            "1": "cloud_2",
+            "2": "**.cloud_2.Colors",
+            "3": [
+              "#FFFF1ABF",
+              "#FFFF1ABF",
+              "#00FF1ABF"
+            ],
+            "4": {
+              "0": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                8176
+              ],
+              "1020": 0
+            }
+          },
+          {
+            "1": "cloud_3",
+            "2": "**.cloud_3.Colors",
+            "3": [
+              "#FF0F6A2F",
+              "#FF0F6A2F",
+              "#000F6A2F"
+            ],
+            "4": {
+              "0": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                8176
+              ],
+              "1020": 0
+            }
+          },
+          {
+            "1": "cloud_4",
+            "2": "**.cloud_4.Colors",
+            "3": [
+              "#FF5FF550",
+              "#FF5FF550",
+              "#005FF550"
+            ],
+            "4": {
+              "0": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                8176
+              ],
+              "1020": 0
+            }
+          }
+        ],
+        "15": {
+          "1": "streak_1",
+          "2": "**.streak_1.Colors",
+          "3": [
+            "#00FF1ABF",
+            "#FFFF1ABF",
+            "#FFFF1ABF",
+            "#00FF1ABF",
+            "#00FF1ABF"
+          ],
+          "4": "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u00e3\u00a5\u009b\u00c4 \u00b0\u00d2?\u0000\u0000\u0000\u0000\u0000\u0000\u00e0?\u008f\u00c2\u00f5(\\\u008f\u00e6?\u0000\u0000\u0000\u0000\u0000\u0000\u00f0?"
+        }
+      }
+    },
+    {
+      "3": {
+        "1": "top-artist",
+        "2": "https://p.scdn.co/mp3-preview/a0e972ae76a702021e069f419325f05fa61348bb",
+        "3": {
+          "1": "top-artist",
+          "2": "default",
+          "3": "\u0004\u0001\u0002\r\u0006\u0000\u0003\u0005\b\u0007\n\u000b\f"
+        },
+        "4": "Top Artist Story",
+        "5": "#000000",
+        "6": {
+          "1": {
+            "1": "You listened to $1 artists",
+            "2": "#FFFFFF",
+            "3": 3,
+            "5": {
+              "4": 800
+            }
+          },
+          "2": {
+            "1": "932",
+            "2": "#FFFFFF",
+            "3": 3,
+            "5": {
+              "4": 800
+            }
+          }
+        },
+        "7": 2334,
+        "8": {
+          "1": {
+            "1": "But one had a special place in your heart. And ears.",
+            "2": "#FFFFFF",
+            "3": 6
+          }
+        },
+        "9": 3001,
+        "10": {
+          "1": "https://i.scdn.co/image/ab6761610000e5eb6219e053da0048ffa00b8685",
+          "2": "YAKUSHIMARU Etsuko"
+        },
+        "11": [
+          {
+            "1": {
+              "1": {
+                "1": "$1 was your top artist of the year",
+                "2": "#000000",
+                "3": 4
+              },
+              "2": [
+                {
+                  "1": "YAKUSHIMARU Etsuko",
+                  "2": "#000000",
+                  "3": 4
+                }
+              ]
+            },
+            "2": {
+              "1": {
+                "1": "Your longest listening streak was $1 days.",
+                "2": "#000000",
+                "3": 6
+              },
+              "2": {
+                "1": "71",
+                "2": "#000000",
+                "3": 7
+              }
+            },
+            "3": 4000
+          },
+          {
+            "1": {
+              "1": {
+                "1": "You\u2019re a top $1 fan and you spent $2 minutes together",
+                "2": "#000000",
+                "3": 4
+              },
+              "2": [
+                {
+                  "1": "0.005%",
+                  "2": "#000000",
+                  "3": 4
+                },
+                {
+                  "1": "9,324",
+                  "2": "#000000",
+                  "3": 4
+                }
+              ]
+            },
+            "2": {
+              "1": {
+                "1": "You overachiever.",
+                "2": "#000000",
+                "3": 6
+              }
+            },
+            "3": 4000
+          }
+        ],
+        "12": {
+          "1": {
+            "1": "You\u2019re a top $1 fan and you spent $2 minutes together",
+            "2": "#000000",
+            "3": 6
+          },
+          "2": [
+            {
+              "1": "0.005%",
+              "2": "#000000",
+              "3": 7
+            },
+            {
+              "1": "9,324",
+              "2": "#000000",
+              "3": 7
+            }
+          ]
+        },
+        "13": "https://campaigns-service.spotifycdn.com/wrapped-2024/lottie/top-artist/top_artist-configuration.binpb"
+      }
+    },
+    {
+      "4": {
+        "1": "top-five-artists",
+        "2": "https://p.scdn.co/mp3-preview/0afa18124505b201bef28a2eb658c51002762348",
+        "3": {
+          "1": "top-five-artists",
+          "2": "default",
+          "3": "\u0004\u0001\u0002\r\u0006\u0000\u0003\u0005\b\u0007\t\n\u000b\f"
+        },
+        "4": "Top Artists Story",
+        "5": "#E81B00",
+        "6": {
+          "1": {
+            "1": "Who else got a lot of play this year?",
+            "2": "#000000",
+            "3": 3,
+            "5": {
+              "4": 800
+            }
+          }
+        },
+        "7": 2334,
+        "8": {
+          "1": {
+            "1": "Big reveal in 3\u2026 2\u2026 1\u2026",
+            "2": "#000000",
+            "3": 6
+          }
+        },
+        "9": 3001,
+        "14": {
+          "1": {
+            "1": "Your top artists",
+            "2": "#000000",
+            "3": 4
+          }
+        },
+        "15": [
+          {
+            "1": {
+              "1": {
+                "1": "1",
+                "2": "#000000",
+                "3": 1,
+                "5": {
+                  "4": 800
+                }
+              }
+            },
+            "2": {
+              "1": "https://i.scdn.co/image/ab6761610000e5eb6219e053da0048ffa00b8685",
+              "2": "YAKUSHIMARU Etsuko artist photo"
+            },
+            "3": {
+              "1": {
+                "1": "YAKUSHIMARU Etsuko",
+                "2": "#000000",
+                "3": 7
+              }
+            }
+          },
+          {
+            "1": {
+              "1": {
+                "1": "2",
+                "2": "#000000",
+                "3": 1,
+                "5": {
+                  "4": 800
+                }
+              }
+            },
+            "2": {
+              "1": "https://i.scdn.co/image/ab6761610000e5eb7aa0d5619ca30d57890a4508",
+              "2": "DIALOGUE+ artist photo"
+            },
+            "3": {
+              "1": {
+                "1": "DIALOGUE+",
+                "2": "#000000",
+                "3": 7
+              }
+            }
+          },
+          {
+            "1": {
+              "1": {
+                "1": "3",
+                "2": "#000000",
+                "3": 1,
+                "5": {
+                  "4": 800
+                }
+              }
+            },
+            "2": {
+              "1": "https://i.scdn.co/image/ab6761610000e5eba2d3f8f44239aa47cb857bc0",
+              "2": "the peggies artist photo"
+            },
+            "3": {
+              "1": {
+                "1": "the peggies",
+                "2": "#000000",
+                "3": 7
+              }
+            }
+          },
+          {
+            "1": {
+              "1": {
+                "1": "4",
+                "2": "#000000",
+                "3": 1,
+                "5": {
+                  "4": 800
+                }
+              }
+            },
+            "2": {
+              "1": "https://i.scdn.co/image/ab6761610000e5eb74688dd2b4c18d27ef2ce405",
+              "2": "MAXIMUM THE HORMONE artist photo"
+            },
+            "3": {
+              "1": {
+                "1": "MAXIMUM THE HORMONE",
+                "2": "#000000",
+                "3": 7
+              }
+            }
+          },
+          {
+            "1": {
+              "1": {
+                "1": "5",
+                "2": "#000000",
+                "3": 1,
+                "5": {
+                  "4": 800
+                }
+              }
+            },
+            "2": {
+              "1": "https://i.scdn.co/image/ab6761610000e5eb0a7388b95df960b5c0da8970",
+              "2": "Elton John artist photo"
+            },
+            "3": {
+              "1": {
+                "1": "Elton John",
+                "2": "#000000",
+                "3": 7
+              }
+            }
+          }
+        ],
+        "16": 5501,
+        "17": "https://campaigns-service.spotifycdn.com/wrapped-2024/lottie/top-artists-list/top_5_artists-configuration.binpb"
+      }
+    },
+    {
+      "5": {
+        "1": "clips",
+        "2": "https://p.scdn.co/mp3-preview/a639e9539e8d99f3fedec31280a65e14436056aa",
+        "3": {
+          "1": "clips",
+          "2": "default"
+        },
+        "4": "Your Artist Clip Story",
+        "5": "#000000",
+        "6": {
+          "1": {
+            "1": "Oh, looks like we have company",
+            "2": "#FFFFFF",
+            "3": 3,
+            "5": {
+              "4": 800
+            }
+          }
+        },
+        "7": 3334,
+        "8": "https://campaigns-service.spotifycdn.com/wrapped-2024/lottie/artist-message/artist_thanks-configuration.binpb",
+        "9": {
+          "1": {
+            "2": "676ddee212533ea4b9fda1b207ad6403"
+          },
+          "2": 23210,
+          "4": {
+            "1": {
+              "1": {
+                "1": "We couldn\u2019t load some data",
+                "2": "#FFFFFF",
+                "3": 4,
+                "4": "#000000"
+              }
+            },
+            "2": {
+              "1": {
+                "1": "But there\u2019s more Wrapped for you.",
+                "2": "#FFFFFF",
+                "3": 6,
+                "4": "#000000"
+              }
+            },
+            "3": "#000000",
+            "4": {
+              "1": {
+                "1": "Keep going",
+                "2": "#000000",
+                "3": "#FFFFFF"
+              },
+              "2": {
+                "1": "Keep going",
+                "2": "#000000",
+                "3": "#FFFFFF"
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "6": {
+        "1": "outro",
+        "2": "https://p.scdn.co/mp3-preview/a8751af461a25a3b86e8eb645b39c81ccb8ea4b8",
+        "3": {
+          "1": "outro",
+          "2": "default"
+        },
+        "4": "Outro Story",
+        "5": "#000000",
+        "6": {
+          "1": {
+            "1": "Thanks for coming along for the ride",
+            "2": "#FFFFFF",
+            "3": 3,
+            "5": {
+              "4": 800
+            }
+          }
+        },
+        "7": 2334,
+        "8": {
+          "1": {
+            "1": "Until we meet again\u2026",
+            "2": "#FFFFFF",
+            "3": 6
+          }
+        },
+        "9": 3000,
+        "10": "https://campaigns-service.spotifycdn.com/wrapped-2024/lottie/summary/summary-configuration.binpb"
+      }
+    },
+    {
+      "7": {
+        "1": "summary-share",
+        "2": "https://p.scdn.co/mp3-preview/0599205f80c8961d269997ebf5256aa78f2b59b3",
+        "3": {
+          "1": "summary-share",
+          "2": "default",
+          "3": "\u0004\u0001\u0002\r\u0006\u0000\u0003\u0005\b\u0007\t\n\u000b\f"
+        },
+        "4": "Summary Share Story",
+        "5": "#000000",
+        "6": {
+          "1": {
+            "1": "Share",
+            "2": "#000000",
+            "3": "#FFFFFF"
+          },
+          "2": {
+            "1": "Share",
+            "2": "#000000",
+            "3": "#FFFFFF"
+          }
+        },
+        "7": {
+          "1": {
+            "1": "Replay from beginning",
+            "2": "#FFFFFF",
+            "3": "#00FFFFFF"
+          },
+          "2": {
+            "1": "Replay from beginning",
+            "2": "#FFFFFF",
+            "3": "#00FFFFFF"
+          }
+        },
+        "9": {
+          "1": "https://i.scdn.co/image/ab6761610000e5eb6219e053da0048ffa00b8685",
+          "2": "Top Artists",
+          "3": [
+            {
+              "1": "1",
+              "2": "YAKUSHIMARU Etsuko"
+            },
+            {
+              "1": "2",
+              "2": "DIALOGUE+"
+            },
+            {
+              "1": "3",
+              "2": "the peggies"
+            },
+            {
+              "1": "4",
+              "2": "MAXIMUM THE HORMONE"
+            },
+            {
+              "1": "5",
+              "2": "Elton John"
+            }
+          ],
+          "4": "Top Songs",
+          "5": [
+            {
+              "1": "1",
+              "2": "Boys, come back to me (RADIO ONSEN EUTOPIA)"
+            },
+            {
+              "1": "2",
+              "2": "YAMI YAMI (RADIO ONSEN EUTOPIA)"
+            },
+            {
+              "1": "3",
+              "2": "Venus & Jesus (RADIO ONSEN EUTOPIA)"
+            },
+            {
+              "1": "4",
+              "2": "Lonely Planet (RADIO ONSEN EUTOPIA)"
+            },
+            {
+              "1": "5",
+              "2": "Nornir (RADIO ONSEN EUTOPIA)"
+            }
+          ],
+          "6": "Minutes Listened",
+          "7": "35,911",
+          "10": "SPOTIFY.COM/WRAPPED",
+          "11": [
+            {
+              "1": "#000000",
+              "2": "#FFFFFF",
+              "3": "https://campaign-service.spotifycdn.com/wrapped-2024/images/sharecards/summary-pink-portrait-ltr.png",
+              "4": "black-pink",
+              "5": "Black and magenta"
+            },
+            {
+              "1": "#00AEEF",
+              "2": "#000000",
+              "3": "https://campaign-service.spotifycdn.com/wrapped-2024/images/sharecards/summary-pink-portrait-ltr.png",
+              "4": "blue-pink",
+              "5": "Blue and magenta"
+            },
+            {
+              "1": "#000000",
+              "2": "#FFFFFF",
+              "3": "https://campaign-service.spotifycdn.com/wrapped-2024/images/sharecards/summary-green-portrait-ltr.png",
+              "4": "black-green",
+              "5": "Black and green"
+            },
+            {
+              "1": "#E81B00",
+              "2": "#000000",
+              "3": "https://campaign-service.spotifycdn.com/wrapped-2024/images/sharecards/summary-green-portrait-ltr.png",
+              "4": "red-green",
+              "5": "Red and green"
+            },
+            {
+              "1": "#FFF200",
+              "2": "#000000",
+              "3": "https://campaign-service.spotifycdn.com/wrapped-2024/images/sharecards/summary-blue-portrait-ltr.png",
+              "4": "yellow-blue",
+              "5": "Yellow and blue"
+            },
+            {
+              "1": "#000000",
+              "2": "#FFFFFF",
+              "3": "https://campaign-service.spotifycdn.com/wrapped-2024/images/sharecards/summary-blue-portrait-ltr.png",
+              "4": "black-blue",
+              "5": "Black and blue"
+            }
+          ]
+        }
+      }
+    }
+  ]
+}
